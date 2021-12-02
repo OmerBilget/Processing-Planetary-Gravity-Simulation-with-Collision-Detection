@@ -1,5 +1,5 @@
 # Processing-Planetary-Gravity-Simulation-with-Collision-Detection
->use wasd for moveement  
+>use wasd for movement  
 w->accelation increase  
 s->accelation decrease  
 a->rotate left  
