@@ -1,5 +1,5 @@
 # Processing-Planetary-Gravity-Simulation-with-Collision-Detection
->use wasd for movement
+>use wasd for movement  
 ship controls   
 w->accelation increase  
 s->accelation decrease  
